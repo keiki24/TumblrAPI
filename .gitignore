@@ -1,0 +1,6 @@
+memo/
+tmp/
+credentials.json
+.python-version
+.DS_Store
+*.pyc
